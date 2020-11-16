@@ -1,0 +1,6 @@
+* Notes on the process
+
+Notice that some theses appear twice in ETHOS, eg
+
+Siena and its Contado by Cardarelli
+Don't want to tell BL about this in case they delete some valid links in our data.
