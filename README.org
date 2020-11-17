@@ -4,3 +4,8 @@ Notice that some theses appear twice in ETHOS, eg
 
 Siena and its Contado by Cardarelli
 Don't want to tell BL about this in case they delete some valid links in our data.
+
+
+Or
+
+<emph type="i"><a href="https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.448075"><a href="https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.596146">Communal conflict in Ceylon politics and the advance towards self-government, 1917-32.</a></a></emph> Ariyaratne, R.A.
